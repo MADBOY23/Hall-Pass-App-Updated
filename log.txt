@@ -1,0 +1,18 @@
+Jeswin left at 2026-02-26 10:46 AM -> Bathroom
+Jeswin returned at 10:48 AM (Total: 2 mins)
+Nickson left at 2026-02-26 10:57 AM -> Bathroom
+Nickson returned at 10:59 AM (Total: 2 mins)
+jeswin left at 2026-02-26 11:09 AM -> Bathroom
+jeswin returned at 11:10 AM (Total: 1 mins)
+sir dukenson left at 2026-02-26 11:20 AM -> Bathroom
+sir dukenson returned at 11:21 AM (Total: 0 mins)
+l left at 2026-02-26 11:24 AM -> Office
+nickson left at 2026-02-26 11:27 AM -> Nurse
+ejhn left at 2026-02-26 11:41 AM -> Office
+Julia left at 2026-02-26 11:42 AM -> Classroom666
+jes left at 2026-02-27 09:14 AM -> Classroom17
+jes returned at 09:14 AM (Total: 0 mins)
+jus left at 2026-02-27 09:16 AM -> Classroom 45
+jus returned at 09:16 AM (Total: 0 mins)
+aaron left at 2026-02-27 10:02 AM -> Bathroom
+aaron returned at 10:35 AM (Total: 34 mins)
